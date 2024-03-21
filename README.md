@@ -1,5 +1,5 @@
 # Winols-Astra-VXR
-My own 2017 project I wanted to Master done with curiosity of the lines of code within a .bin file of many modern day ecu engine control units. So called secrets wizardry of ecu remappers many of which dont even understand the code themselves !!! 
+My own 2017 project I wanted to Master done with curiosity of the lines of code within a .bin file more specifically string identifiers of many modern day ecu engine control units. So called secrets wizardry of ecu remappers many of which dont even understand all the lines of code themselves !!! 
 
 Current modern control units vary many manufacturers code including hardware and software varies so I have narrowed my research into bosch motronic me ecu
 
